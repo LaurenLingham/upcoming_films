@@ -38,6 +38,27 @@
 }
 
 li {
-  margin: 20px 0;
+  margin: 20px 20px;
   padding: 10px;
+  font-size: 22px;
+}
+
+.film-box {
+  background-color: rgb(234, 233, 233);
+  border: solid black 2px;
+  padding: 10px;
+  width: 70%;
+}
+
+a {
+  color: rgb(40, 88, 178);
+  font-size: larger;
+  text-decoration: None;
+}
+
+.upcoming-films {
+  border: solid black 2px;
+  padding: 25px;
+  background-color: rgb(135, 191, 221);
+  font-size: 25px;
 }

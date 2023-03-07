@@ -14,7 +14,7 @@ const FilmList = ({films}) => {
         <>
             {filmNodes}
             <hr/>
-            {UpcomingFilms()}
+            <div className="upcoming-films">{UpcomingFilms()}</div>
         </>
     )
 };
